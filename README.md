@@ -38,8 +38,8 @@ Now these ones are a bit trickier to interpret, so let's visualize:
 
 The first two graphs along with the fourth one show the same insights, that were found examining correlation.
 
-The latter graphs show that the users who have opened their wallets at least once have a significantly larger proportion of those who cancelled later on. (Add explanation as to why this would be the case).
+The latter graphs show that the users who have opened their wallets at least once have a significantly larger proportion of those who cancelled later on. Perhaps they only got the urge to check their balance when something was going wrong.
 
-The use of 'Other' platform for events ___.
+The use of 'Other' platform for events does seem to indicate a higher chance of the user churning, but than again the proportion of users with 'Other' platform is way to small to draw conclusions.
 
 The difference between the distributions of time spent on the platform for churned and not churned users could be attributed to the fact that the users who cancelled their subscription immediately were dropped, shifting the peaks of the graph more to the right. 
