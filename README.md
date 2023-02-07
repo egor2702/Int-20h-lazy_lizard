@@ -34,4 +34,12 @@ Lastly we employed a Random Forest, which assigned the following feature importa
 |Transaction Refund|0.056||Account Setup Skip|0.003|
 
 Now these ones are a bit trickier to interpret, so let's visualize:
-(lol add the image)
+![alt text](https://github.com/egor2702/Int-20h-lazy_lizard/blob/main/output.png)
+
+The first two graphs along with the fourth one show the same insights, that were found examining correlation.
+
+The latter graphs show that the users who have opened their wallets at least once have a significantly larger proportion of those who cancelled later on. (Add explanation as to why this would be the case).
+
+The use of 'Other' platform for events ___.
+
+The difference between the distributions of time spent on the platform for churned and not churned users could be attributed to the fact that the users who cancelled their subscription immediately were dropped, shifting the peaks of the graph more to the right. 
